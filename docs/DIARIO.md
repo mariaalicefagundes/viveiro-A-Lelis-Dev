@@ -8,8 +8,13 @@
 
 ## Encontro 1 — 30/07 (aula)
 
-**Presentes:**
-**Escriba:**
+**Presentes:** LAVÍNIA SANTOS ROSEMBERG
+HEITOR FILIPE GARCIA DO CARMO
+LILYAN NEVES ALVES
+BEATRIZ PEREIRA DE ALCÂNTARA
+MARIA ALICE SILVA FAGUNDES
+LAURA SALES MORAIS
+**Escriba:** MARIA ALICE SILVA FAGUNDES
 
 **O que se pretendia:**
 **O que se realizou:**
