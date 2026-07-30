@@ -1,0 +1,123 @@
+/* Viveiro — folha de estilo
+   escrita no 1o semestre de 2026 */
+
+:root{
+  --papel:#F6F3EC;
+  --tinta:#26302A;
+  --suave:#8B968D;
+  --verde:#4F7A52;
+  --verde-claro:#E3EDE2;
+  --broto:#8FB33F;
+  --terra:#B4622F;
+  --linha:#D8D9CE;
+  --cartao:#FFFFFF;
+}
+
+*{ box-sizing:border-box; }
+
+body{
+  margin:0;
+  background:var(--papel);
+  color:var(--tinta);
+  font-family:"Segoe UI", Calibri, Arial, sans-serif;
+  font-size:15px;
+}
+
+/* ------------------------------- topo ------------------------------- */
+header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:14px 26px;
+  background:var(--verde);
+  color:#fff;
+}
+header h1{ margin:0; font-size:26px; letter-spacing:1px; }
+.lema{ font-size:13px; opacity:.85; margin-left:12px; font-style:italic; }
+.marca{ display:flex; align-items:baseline; }
+.sessao{ font-size:13px; }
+.sessao label{ margin-right:6px; opacity:.85; }
+.sessao select{
+  font-size:14px; padding:4px 8px; border-radius:5px;
+  border:1px solid rgba(255,255,255,.5); background:#fff; color:var(--tinta);
+}
+
+/* ------------------------------- abas ------------------------------- */
+.abas{ padding:0 26px; border-bottom:1px solid var(--linha); background:var(--papel); }
+.aba{
+  border:none; background:none; cursor:pointer;
+  font-size:15px; padding:12px 16px; color:var(--suave);
+  border-bottom:3px solid transparent;
+}
+.aba.ativa{ color:var(--verde); font-weight:bold; border-bottom-color:var(--broto); }
+
+main{ padding:20px 26px 40px; }
+
+/* ------------------------------ barra ------------------------------- */
+.barra{ display:flex; align-items:center; gap:14px; margin-bottom:10px; }
+#busca{
+  flex:0 0 340px; font-size:15px; padding:8px 12px;
+  border:1px solid var(--linha); border-radius:6px; background:#fff;
+}
+.contagem{ color:var(--suave); font-size:14px; }
+.filtro-ativo{ margin:0 0 12px; font-size:14px; color:var(--terra); min-height:18px; }
+
+/* ----------------------------- cartões ------------------------------ */
+.cartoes{
+  display:grid;
+  grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));
+  gap:16px;
+}
+.cartao{
+  background:var(--cartao);
+  border:1px solid var(--linha);
+  border-radius:8px;
+  padding:14px 16px;
+  box-shadow:0 1px 2px rgba(0,0,0,.05);
+}
+
+/* o título não pode quebrar linha, senão o cartão fica torto */
+.cartao h3{
+  margin:0 0 6px;
+  font-size:17px;
+  color:var(--verde);
+  white-space:nowrap;
+}
+
+.cartao .autoria{ font-size:12.5px; color:var(--suave); margin-bottom:8px; }
+.cartao .resumo{ margin:0 0 10px; line-height:1.45; }
+.cartao .tags{ margin-bottom:10px; }
+.etiqueta{
+  display:inline-block; font-size:12px; padding:2px 9px; margin:0 5px 5px 0;
+  background:var(--verde-claro); color:var(--verde);
+  border-radius:12px; cursor:pointer;
+}
+.etiqueta:hover{ background:var(--broto); color:#fff; }
+.cartao .rodape{ display:flex; align-items:center; gap:10px; }
+.apoiar{
+  font-size:13px; padding:4px 12px; cursor:pointer;
+  border:1px solid var(--broto); color:var(--verde);
+  background:transparent; border-radius:14px;
+}
+.apoiar:hover{ background:var(--broto); color:#fff; }
+.apoios{ font-size:13px; color:var(--suave); }
+
+/* ------------------------------ grupos ------------------------------ */
+.lista-grupos{ list-style:none; padding:0; margin:0; max-width:640px; }
+.lista-grupos li{
+  background:#fff; border:1px solid var(--linha); border-radius:8px;
+  padding:12px 16px; margin-bottom:10px;
+}
+.lista-grupos .nome{ font-weight:bold; color:var(--verde); font-size:16px; }
+.lista-grupos .quantos{ float:right; color:var(--suave); font-size:13px; }
+.lista-grupos .descricao{ margin:4px 0 0; font-size:14px; color:var(--tinta); }
+
+.escondido{ display:none; }
+
+/* ------------------------------ rodapé ------------------------------ */
+footer{
+  display:flex; justify-content:space-between;
+  padding:12px 26px; border-top:1px solid var(--linha);
+  font-size:12.5px; color:var(--suave);
+}
+.base{ font-family:Consolas, monospace; }
