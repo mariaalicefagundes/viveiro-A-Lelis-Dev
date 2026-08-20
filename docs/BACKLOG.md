@@ -26,6 +26,7 @@ Pronto quando:
 ---
 
 ### V-02 — Filtro por curso
+MUDAR
 
 Implementar filtro por curso na barra lateral do mural.
 
@@ -78,6 +79,7 @@ Pronto quando:
 ---
 
 ### V-06 — Estados da ideia
+MUDAR
 
 **Como** usuário,
 **quero** que as ideias tenham estados,
@@ -117,6 +119,7 @@ Pronto quando:
 ---
 
 ### V-09 — Aviso de novo interessado
+MUDAR
 
 **Como** aluno com uma ideia publicada,
 **quero** receber uma notificação no celular quando alguém demonstrar interesse,
