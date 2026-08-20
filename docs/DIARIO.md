@@ -17,7 +17,10 @@ LAURA SALES MORAIS
 **Escriba:** MARIA ALICE SILVA FAGUNDES
 
 **O que se pretendia:**
+Ler e encontrar erros nas história já escritas e reescrever
+
 **O que se realizou:**
+Encontramos erros em algumas das histórias
 
 **Tempo gasto por história:**
 
@@ -25,6 +28,7 @@ LAURA SALES MORAIS
 |---|---|---|
 
 **Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)*
+A equipe e ainda buscava se organizar para saber o que fazer e se organizar
 
 **Decisões tomadas:** *(com a justificativa de cada uma)*
 
