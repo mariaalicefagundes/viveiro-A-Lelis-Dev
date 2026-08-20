@@ -32,6 +32,52 @@ A equipe e ainda buscava se organizar para saber o que fazer e se organizar
 
 **Decisões tomadas:** *(com a justificativa de cada uma)*
 
+## Encontro 2 — 06/07 (aula)
+
+**Presentes:** LAVÍNIA SANTOS ROSEMBERG
+HEITOR FILIPE GARCIA DO CARMO
+LILYAN NEVES ALVES
+BEATRIZ PEREIRA DE ALCÂNTARA
+MARIA ALICE SILVA FAGUNDES
+LAURA SALES MORAIS
+**Escriba:** 
+
+**O que se pretendia:**
+
+**O que se realizou:**
+
+**Tempo gasto por história:**
+
+| ID | Quem trabalhou | Tempo (min) |
+|---|---|---|
+
+**Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)*
+
+**Decisões tomadas:** *(com a justificativa de cada uma)*
+---
+
+## Encontro 3 — 13/07 (aula)
+
+**Presentes:** LAVÍNIA SANTOS ROSEMBERG
+HEITOR FILIPE GARCIA DO CARMO
+LILYAN NEVES ALVES
+BEATRIZ PEREIRA DE ALCÂNTARA
+MARIA ALICE SILVA FAGUNDES
+LAURA SALES MORAIS
+**Escriba:** 
+
+**O que se pretendia:**
+
+**O que se realizou:**
+
+**Tempo gasto por história:**
+
+| ID | Quem trabalhou | Tempo (min) |
+|---|---|---|
+
+**Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)*
+
+**Decisões tomadas:** *(com a justificativa de cada uma)*
 ---
 
 ## Sessão extra — [data], [duração]
