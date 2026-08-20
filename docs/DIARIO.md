@@ -42,19 +42,24 @@ MARIA ALICE SILVA FAGUNDES
 LAURA SALES MORAIS
 **Escriba:** 
 
-**O que se pretendia:**
+**O que se pretendia:** verificar e registrar os erros nas backlogs e concertar ambiguidades e os erros encontrados.
 
-**O que se realizou:**
+**O que se realizou:** analisamos os erros e registramos no plano, desenvolvendo ideias para concertá-las.
 
-**Tempo gasto por história:**
+**Tempo gasto por história:** em média de 5 à 10 mn.
 
 | ID | Quem trabalhou | Tempo (min) |
-|---|---|---|
+|---|Lavínia|7|
+|---|Lilyan|4|
+|---|Beatriz|5|
+|---|Laura|3|
+|---|Heitor|3|
 
-**Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)*
+**Impedimentos encontrados:** *A falta de detalhamento das backlogs fizeram com que tivéssemos de remoldar algumas ideias principais do projeto. Registramos as falhas e reorganizamos as ideias; Vimos que o tempo era um problema, por isso, fizemos uma reunião de organização de ideias.*
 
-**Decisões tomadas:** *(com a justificativa de cada uma)*
----
+**Decisões tomadas:** *Remoldar a forma de acesso dos usuários no site - a plataforma não pode ser acessada via login, por isso criamos planos para solucionar o problema, que etão registrados no plano;
+Uma implementação de dados que não permita o acesso imediato ao telefone; Decidimos organizar uma reunião antes de enviar os dados das histórias ao cliente.*
+
 
 ## Encontro 3 — 13/07 (aula)
 
@@ -66,18 +71,21 @@ MARIA ALICE SILVA FAGUNDES
 LAURA SALES MORAIS
 **Escriba:** 
 
-**O que se pretendia:**
+**O que se pretendia:** terminar o que paramos na metade no encontro anterior.
 
-**O que se realizou:**
+**O que se realizou:** revisamos erros nas backlogs e implementamos algumas ideias no plano. Registramos e restauramos algumas ideias, já registrando medidas que usaremos no processo de desenvolvimento.
 
-**Tempo gasto por história:**
+**Tempo gasto por história:** em média 20 mn, pela análise profunda e pesquisas.
 
 | ID | Quem trabalhou | Tempo (min) |
-|---|---|---|
+|---|Lavínia|15|
+|---|Lilyan|15|
+|---|Beatriz|15|
+|---|Laura|15|
+|---|Heitor|15|
+**Impedimentos encontrados:** *Percebemos que os dados anteriores não haviam sito registrados; Pouco tempo restante;*
 
-**Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)*
-
-**Decisões tomadas:** *(com a justificativa de cada uma)*
+**Decisões tomadas:** *Decidimos realizar um encontro no meio da semana com fins de organizar e definir a função de cada integrante; faremos uma chamada rápida para verificar como está o andamento do trabalho; refizemos as ideias não salvas*
 ---
 
 ## Sessão extra — [data], [duração]
