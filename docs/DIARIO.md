@@ -40,7 +40,7 @@ LILYAN NEVES ALVES
 BEATRIZ PEREIRA DE ALCÂNTARA
 MARIA ALICE SILVA FAGUNDES
 LAURA SALES MORAIS
-**Escriba:** 
+**Escriba:** LILYAN NEVES ALVES
 
 **O que se pretendia:** verificar e registrar os erros nas backlogs e concertar ambiguidades e os erros encontrados.
 
@@ -69,7 +69,7 @@ LILYAN NEVES ALVES
 BEATRIZ PEREIRA DE ALCÂNTARA
 MARIA ALICE SILVA FAGUNDES
 LAURA SALES MORAIS
-**Escriba:** 
+**Escriba:** HEITOR FILIPE GARCIA DO CARMO
 
 **O que se pretendia:** terminar o que paramos na metade no encontro anterior.
 
@@ -94,7 +94,7 @@ LAURA SALES MORAIS
 HEITOR FILIPE GARCIA DO CARMO
 BEATRIZ PEREIRA DE ALCÂNTARA
 MARIA ALICE SILVA FAGUNDES
-**Escriba:** 
+**Escriba:** BEATRIZ PEREIRA DE ALCÂNTARA
 
 **O que se pretendia:** 
 
