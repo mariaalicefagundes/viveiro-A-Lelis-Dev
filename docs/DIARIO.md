@@ -32,7 +32,7 @@ A equipe e ainda buscava se organizar para saber o que fazer e se organizar
 
 **Decisões tomadas:** *(com a justificativa de cada uma)*
 
-## Encontro 2 — 06/07 (aula)
+## Encontro 2 — 06/08 (aula)
 
 **Presentes:** LAVÍNIA SANTOS ROSEMBERG
 HEITOR FILIPE GARCIA DO CARMO
@@ -61,7 +61,7 @@ LAURA SALES MORAIS
 Uma implementação de dados que não permita o acesso imediato ao telefone; Decidimos organizar uma reunião antes de enviar os dados das histórias ao cliente.*
 
 
-## Encontro 3 — 13/07 (aula)
+## Encontro 3 — 13/08 (aula)
 
 **Presentes:** LAVÍNIA SANTOS ROSEMBERG
 HEITOR FILIPE GARCIA DO CARMO
@@ -87,6 +87,31 @@ LAURA SALES MORAIS
 
 **Decisões tomadas:** *Decidimos realizar um encontro no meio da semana com fins de organizar e definir a função de cada integrante; faremos uma chamada rápida para verificar como está o andamento do trabalho; refizemos as ideias não salvas*
 ---
+
+## Encontro 4 — 27/08 (aula)
+
+**Presentes:**
+HEITOR FILIPE GARCIA DO CARMO
+BEATRIZ PEREIRA DE ALCÂNTARA
+MARIA ALICE SILVA FAGUNDES
+**Escriba:** 
+
+**O que se pretendia:** 
+
+**O que se realizou:**
+
+**Tempo gasto por história:** 
+
+| ID | Quem trabalhou | Tempo (min) |
+|---|Beatriz|15|
+|---|Laura|15|
+|---|Heitor|15|
+
+**Impedimentos encontrados:** *Percebemos que os dados anteriores não haviam sito registrados; Pouco tempo restante;*
+
+**Decisões tomadas:** *Decidimos realizar um encontro no meio da semana com fins de organizar e definir a função de cada integrante; faremos uma chamada rápida para verificar como está o andamento do trabalho; refizemos as ideias não salvas*
+---
+
 
 ## Sessão extra — [data], [duração]
 
