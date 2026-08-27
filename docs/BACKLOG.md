@@ -26,9 +26,10 @@ Pronto quando:
 ---
 
 ### V-02 — Filtro por curso
-MUDAR
 
-Implementar filtro por curso na barra lateral do mural.
+**Como** aluno que busca um projeto de interesse,
+**quero** que haja um filtro por curso na barra lateral,
+**para** que eu possa achar assuntos de interesse de forma mais fácil.
 
 Pronto quando:
 - o filtro estiver funcionando.
@@ -53,11 +54,11 @@ Pronto quando:
 ### V-04 — Encontrar ideias que combinam comigo
 
 **Como** visitante do mural,
-**quero** encontrar rapidamente as ideias que combinam comigo,
+**quero** encontrar rapidamente as ideias que procuro,
 **para** não perder tempo.
 
 Pronto quando:
-- a interface estiver amigável;
+- a interface estiver fácil de entender;
 - a busca for rápida;
 - o resultado for relevante.
 
@@ -81,9 +82,9 @@ Pronto quando:
 ### V-06 — Estados da ideia
 MUDAR
 
-**Como** usuário,
+**Como** aluno que busca um projeto,
 **quero** que as ideias tenham estados,
-**para** que os estados das ideias fiquem registrados.
+**para** que possa saber como está a ideia.
 
 Pronto quando:
 - os estados estiverem implementados.
@@ -109,7 +110,7 @@ Pronto quando:
 
 ### V-08 — Não perder o que foi escrito
 
-**Como** usuário,
+**Como** aluno que quer publicar uma ideia,
 **quero** não perder o que escrevi,
 **para** não ter que digitar tudo de novo.
 
@@ -119,14 +120,12 @@ Pronto quando:
 ---
 
 ### V-09 — Aviso de novo interessado
-MUDAR
-
 **Como** aluno com uma ideia publicada,
-**quero** receber uma notificação no celular quando alguém demonstrar interesse,
+**quero** receber uma notificação no E-MAIL quando alguém demonstrar interesse,
 **para** não perder a chance de formar grupo.
 
 Pronto quando:
-- ao registrar interesse, o autor recebe uma notificação no celular em até um minuto;
+- ao registrar interesse, o autor recebe uma notificação no E-MAIL em até um minuto;
 - a notificação mostra o nome de quem se interessou e o título da ideia;
 - tocar na notificação abre a ideia correspondente.
 
