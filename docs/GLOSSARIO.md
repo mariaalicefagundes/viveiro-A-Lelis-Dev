@@ -25,6 +25,12 @@ era no sistema ou na disciplina.
 
 Fica registrado. Não resolvemos.
 
+## estados
+
+Revela como está a proposta feita por um aluno, verificando se  a mesma esta atualizando e está pronta para virar um projeto
+
+semente, germinando, proposta.
+
 ---
 
 ## Termos ainda sem definição
