@@ -58,7 +58,7 @@ Pronto quando:
 **para** não perder tempo.
 
 Pronto quando:
-- a interface estiver fácil de entender;
+- o usuário puder navegar pelo site sem distrações, indo diretamente à seus interesses;
 ---
 
 ### V-05 — Entrar e sair de um grupo
@@ -112,27 +112,33 @@ Pronto quando:
 **para** não ter que digitar tudo de novo.
 
 Pronto quando:
-- os dados forem salvos em `localStorage` usando `JSON.stringify`, e recuperados no carregamento da página.
+- ao abrir e fechar o navegador, o aluno encontre o que estava escrevendo anteriormente.
 
 ---
 
 ### V-09 — Aviso de novo interessado
 **Como** aluno com uma ideia publicada,
-**quero** receber uma notificação no E-MAIL quando alguém demonstrar interesse,
-**para** não perder a chance de formar grupo.
+**quero** que o site tenha uma caixa de mensagens que salve quando alguém demonstrar interesse,
+**para** não perder a chance de formar grupo por desatenção.
 
 Pronto quando:
-- ao registrar interesse, o autor recebe uma notificação no E-MAIL em até um minuto;
-- a notificação mostra o nome de quem se interessou e o título da ideia;
-- tocar na notificação abre a ideia correspondente.
+- ao registrar interesse, o autor pode ver o aviso na caixa de mensagens;
+- o aviso mostra o nome de quem se interessou e o título da ideia;
+- tocar no aviso abre a ideia correspondente.
 
 ---
 
-## Caixa de entrada
+### V-10 — Aviso de novo interessado
+**Como** aluno com uma ideia publicada,
+**quero** que o site tenha uma caixa de mensagens que salve quando alguém demonstrar interesse,
+**para** não perder a chance de formar grupo por desatenção.
 
-Anotações de conversa. Ninguém escreveu direito ainda.
+Pronto quando:
+- ao registrar interesse, o autor pode ver o aviso na caixa de mensagens;
+- o aviso mostra o nome de quem se interessou e o título da ideia;
+- tocar no aviso abre a ideia correspondente.
 
-- **V-10** — ideias paradas
+---
 - **V-11** — relatório por curso
 - **V-12** — exportar / importar o estado
 
