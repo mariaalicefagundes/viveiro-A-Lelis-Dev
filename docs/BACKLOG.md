@@ -149,18 +149,16 @@ Pronto quando:
 
 ---
 
-### V-12 — Relatório por curso
-**Como** professor que gostaria de entender as demandas de projetos,
-**quero** que o site gere um relatório de qual curso tem alunos mais ativos no sistema e quais são as tags mais pesquisadas pelos alunos de cada curso,
-**para** que possa publicar ideias que atrairão mais interesse.
-
+### V-12 — Exportar / Importar o estado
+**Como** professor com uma ideia publicada com mais de três pessoas interessadas,
+**quero** que seja possível importar o estado (semente, germinando,proposta) de uma ideia para outra, incorporando ela em seu escopo e exportar transformando o complemento de uma ideia em um novo projeto, mantendo o estados,
+**para** que tenha mais flexibilidade de criação de novas propostas.
 Pronto quando:
-- houver um lugar na página destinada a mostras qual curso tem alunos mais ativos no site;
-- houver um espaço que mostre qual foramas 5 tags mais pesquisadas na última semana pelos alunos de cada curso.
----
-- **V-12** — exportar / importar o estado
+- for possivel, ao escrever uma ideia, anexar uma outra proposta e seu estado nela se possuires tags semelhantes;
+- criar uma nova ideia com o estado de ooutra já publicada se elas possuirem tags semelhantes.
 
 ---
+
 
 ## Defeitos conhecidos
 
