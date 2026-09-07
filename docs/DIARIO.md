@@ -113,18 +113,24 @@ MARIA ALICE SILVA FAGUNDES
 ---
 
 
-## Sessão extra — [data], [duração]
+## Sessão extra — [04], [1h50]
 
-**Como foi combinada:** *(quando se marcou, por qual meio, quem confirmou)*
-**Presentes:**
-**Escriba:**
+**Como foi combinada:** *foi decidida em conjunto*
+**Presentes:*Lilyan Neves Alves, Heitor Felipe Garcia, Lavínia Santos Rosemberg, Laura Sales Morais, Maria Alice Fagundes, Beatriz Pereira de Alcântara*
+**Escriba:*Lilyan Neves*
 
-**O que se realizou:**
+**O que se realizou:*Reescrevemos todas as histórias que continham erros e escrevemos as incompletas*
 
 | ID | Quem trabalhou | Tempo (min) |
-|---|---|---|
+|---|Lilyan|1h50|
+|---|Lavínia|1h50|
+|---|Heitor|1h50|
+|---|Beatriz|1h50|
+|---|Maria Alice|1h50|
+|---|Laura|1h50|
 
-**Impedimentos e decisões:**
+
+**Impedimentos e decisões: O principal impedimento foi a necessidade de comunicação, então decidimos realizar o trabalho juntos ao mesmo tempo, debatendo e criando as histórias**
 
 ---
 
