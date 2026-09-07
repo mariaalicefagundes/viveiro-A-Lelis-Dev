@@ -134,10 +134,30 @@ Pronto quando:
 **para** não perder tempo lendo projetos sem grande chance de progresso.
 
 Pronto quando:
-- uma ideia só aparecer na tela do sie se tiver menos de duas semanas de publicação ou três ou mais pessoas interessadas nela;
+- uma ideia só aparecer na tela do site se tiver menos de duas semanas de publicação ou três ou mais pessoas interessadas nela;
 
 ---
-- **V-11** — relatório por curso
+
+### V-11 — Relatório por curso
+**Como** professor que gostaria de entender as demandas de projetos,
+**quero** que o site gere um relatório de qual curso tem alunos mais ativos no sistema e quais são as tags mais pesquisadas pelos alunos de cada curso,
+**para** que possa publicar ideias que atrairão mais interesse.
+
+Pronto quando:
+- houver um lugar na página destinada a mostras qual curso tem alunos mais ativos no site;
+- houver um espaço que mostre qual foramas 5 tags mais pesquisadas na última semana pelos alunos de cada curso.
+
+---
+
+### V-12 — Relatório por curso
+**Como** professor que gostaria de entender as demandas de projetos,
+**quero** que o site gere um relatório de qual curso tem alunos mais ativos no sistema e quais são as tags mais pesquisadas pelos alunos de cada curso,
+**para** que possa publicar ideias que atrairão mais interesse.
+
+Pronto quando:
+- houver um lugar na página destinada a mostras qual curso tem alunos mais ativos no site;
+- houver um espaço que mostre qual foramas 5 tags mais pesquisadas na última semana pelos alunos de cada curso.
+---
 - **V-12** — exportar / importar o estado
 
 ---
