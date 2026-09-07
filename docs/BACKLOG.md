@@ -128,15 +128,13 @@ Pronto quando:
 
 ---
 
-### V-10 — Aviso de novo interessado
-**Como** aluno com uma ideia publicada,
-**quero** que o site tenha uma caixa de mensagens que salve quando alguém demonstrar interesse,
-**para** não perder a chance de formar grupo por desatenção.
+### V-10 — Ideias Paradas
+**Como** aluno que busca um projeto,
+**quero** que o site apague ideias que não tenham recebido mais de duas manifestações de interesse após duas semanas de publicação,
+**para** não perder tempo lendo projetos sem grande chance de progresso.
 
 Pronto quando:
-- ao registrar interesse, o autor pode ver o aviso na caixa de mensagens;
-- o aviso mostra o nome de quem se interessou e o título da ideia;
-- tocar no aviso abre a ideia correspondente.
+- uma ideia só aparecer na tela do sie se tiver menos de duas semanas de publicação ou três ou mais pessoas interessadas nela;
 
 ---
 - **V-11** — relatório por curso
