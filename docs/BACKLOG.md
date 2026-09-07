@@ -79,7 +79,7 @@ Pronto quando:
 ### V-06 — Estados da ideia
 MUDAR
 
-**Como** professor que propõe um projeto,
+**Como** professor que propõe uma ideia,
 **quero** que as ideias tenham estados,
 **para** que possa saber se devo seguir em frente com uma ideia ou não.
 
