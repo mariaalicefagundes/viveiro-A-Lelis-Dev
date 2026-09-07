@@ -28,11 +28,11 @@ Pronto quando:
 ### V-02 — Filtro por curso
 
 **Como** aluno que busca um projeto de interesse,
-**quero** que haja um filtro por curso na barra lateral,
+**quero** que haja um filtro por curso,
 **para** que eu possa achar assuntos de interesse de forma mais fácil.
 
 Pronto quando:
-- o filtro estiver funcionando.
+- for possível digitar o nome de um curso e aparecer apenar projetos de alunos e professores ligados a ele.
 
 ---
 
@@ -59,9 +59,6 @@ Pronto quando:
 
 Pronto quando:
 - a interface estiver fácil de entender;
-- a busca for rápida;
-- o resultado for relevante.
-
 ---
 
 ### V-05 — Entrar e sair de um grupo
@@ -82,12 +79,12 @@ Pronto quando:
 ### V-06 — Estados da ideia
 MUDAR
 
-**Como** aluno que busca um projeto,
+**Como** professor que propõe um projeto,
 **quero** que as ideias tenham estados,
-**para** que possa saber como está a ideia.
+**para** que possa saber se devo seguir em frente com uma ideia ou não.
 
 Pronto quando:
-- os estados estiverem implementados.
+- for possível verificar quantas pessoas estão interessadas e classificar a ideia de acordo com o número.
 
 Obs.: falamos em três estados — semente, germinando, proposta.
 
