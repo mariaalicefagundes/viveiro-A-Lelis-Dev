@@ -35,5 +35,5 @@ semente, germinando, proposta.
 
 ## Termos ainda sem definição
 
-apoiar · interessado · membro · tag · curso · mural · perfil · proposta ·
+· interessado · tag · curso · mural · perfil · proposta ·
 semente · germinando
