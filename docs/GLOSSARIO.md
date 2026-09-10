@@ -33,7 +33,26 @@ semente, germinando, proposta.
 
 ---
 
+### perfil
+
+A página individual de cada usuário na plataforma. Reúne dados acadêmicos (como curso), competências, histórico de ideias publicadas e grupos dos quais participa.
+
+### mural
+
+O painel principal da plataforma onde as ideias são publicadas, visualizadas e abertas à interação da comunidade.
+
+### interessado 
+
+Usuário que demonstra interesse por uma ideia ou grupo, se registrando para acompanhar atualizações, colaborar no desenvolvimento ou integrar a futura equipe.
+
+### tag 
+
+Etiqueta ou palavra-chave atribuída a ideias, perfis ou grupos para facilitar a busca, a categorização e o alinhamento de interesses/temas.
+
+### curso
+
+O curso ao qual o estudante está vinculado na instituição. Utilizado no perfil para incentivar a interdisciplinaridade nas equipes.
+
 ## Termos ainda sem definição
 
-· interessado · tag · curso · mural · perfil · proposta ·
-semente · germinando
+· proposta · semente · germinando
