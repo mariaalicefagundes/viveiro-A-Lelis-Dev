@@ -16,33 +16,98 @@
   <div class="sessao">
     <label for="quem">navegando como</label>
     <select id="quem"></select>
+
+    <button id="sino" class="sino" type="button" aria-haspopup="true" aria-expanded="false">
+      🔔
+      <span id="bolha-mensagens" class="bolha escondido">0</span>
+    </button>
+    <div id="painel-mensagens" class="painel-mensagens escondido">
+      <div class="cabecalho-painel">Interesses recebidos</div>
+      <ul id="lista-mensagens"></ul>
+    </div>
   </div>
 </header>
 
 <nav class="abas">
-  <button id="aba-mural" class="aba ativa">Mural</button>
-  <button id="aba-grupos" class="aba">Grupos</button>
+  <button id="aba-mural" class="aba ativa" data-view="mural">Mural</button>
+  <button id="aba-grupos" class="aba" data-view="grupos">Grupos</button>
+  <button id="aba-relatorio" class="aba" data-view="relatorio">Relatório</button>
 </nav>
 
 <main>
   <!-- ------------------------------ MURAL ------------------------------ -->
   <section id="mural">
+
+    <form id="form-publicar" class="form-publicar" novalidate>
+      <h2>Publicar uma ideia</h2>
+
+      <div class="campo">
+        <label for="campo-titulo">título</label>
+        <input id="campo-titulo" name="titulo" type="text" maxlength="120">
+        <span id="erro-titulo" class="mensagem-erro escondido">Escreva um título antes de publicar — é a única coisa obrigatória.</span>
+      </div>
+
+      <div class="campo">
+        <label for="campo-resumo">resumo</label>
+        <textarea id="campo-resumo" name="resumo" rows="2" maxlength="400"></textarea>
+      </div>
+
+      <div class="campo">
+        <label for="campo-tags">tags (separadas por vírgula)</label>
+        <input id="campo-tags" name="tags" type="text" placeholder="ex.: robótica, automação">
+      </div>
+
+      <div class="campo">
+        <label for="campo-anexo">anexar proposta existente (opcional)</label>
+        <select id="campo-anexo" name="anexo">
+          <option value="">— nenhuma —</option>
+        </select>
+        <span id="dica-anexo" class="dica-anexo escondido"></span>
+      </div>
+
+      <button type="submit" class="botao-primario">Publicar ideia</button>
+    </form>
+
     <div class="barra">
-      <input id="busca" type="search" placeholder="buscar por título ou resumo...">
+      <input id="busca" type="search" placeholder="buscar por título, resumo ou tag...">
+      <input id="filtro-curso" type="text" placeholder="filtrar por curso...">
       <span id="contagem" class="contagem"></span>
     </div>
-    <p id="filtro-ativo" class="filtro-ativo"></p>
+
+    <div class="chips-rapidos">
+      <button id="chip-recomendadas" class="chip" type="button">para o meu interesse</button>
+    </div>
+
+    <p id="filtro-ativo" class="filtro-ativo escondido"></p>
+
     <div id="cartoes" class="cartoes"></div>
+  </section>
+
+  <!-- ------------------------------ PESSOA ------------------------------ -->
+  <section id="pessoa" class="escondido">
+    <div class="pagina-pessoa" id="conteudo-pessoa"></div>
   </section>
 
   <!-- ------------------------------ GRUPOS ----------------------------- -->
   <section id="grupos" class="escondido">
     <ul id="lista-grupos" class="lista-grupos"></ul>
   </section>
+
+  <!-- ------------------------------ RELATÓRIO ----------------------------- -->
+  <section id="relatorio" class="escondido">
+    <div class="bloco-relatorio">
+      <h2>Curso com alunos mais ativos</h2>
+      <div id="relatorio-atividade"></div>
+    </div>
+    <div class="bloco-relatorio">
+      <h2>Tags mais buscadas por curso (últimos 7 dias)</h2>
+      <div id="relatorio-tags"></div>
+    </div>
+  </section>
 </main>
 
 <footer>
-  <span>Viveiro — versão 0.1 (MVP)</span>
+  <span>Viveiro — versão 0.2 (MVP)</span>
   <span id="base" class="base"></span>
 </footer>
 
