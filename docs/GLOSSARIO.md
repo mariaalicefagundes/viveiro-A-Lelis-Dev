@@ -31,6 +31,18 @@ Revela como está a proposta feita por um aluno, verificando se  a mesma esta at
 
 semente, germinando, proposta.
 
+### semente
+
+Estado inicial de uma ideia recém-publicada no Mural. Indica uma intenção conceitual que ainda precisa de debate, detalhamento e adesão de outros interessados.
+
+### germinando
+
+Fase em que a ideia está em desenvolvimento ativo. Recebeu contribuições, novos interessados e está amadurecendo sua proposta de valor e escopo.
+
+### proposta
+
+Fase em que a ideia está em desenvolvimento ativo. Recebeu contribuições, novos interessados e está amadurecendo sua proposta de valor e escopo.
+
 ---
 
 ### perfil
@@ -55,4 +67,4 @@ O curso ao qual o estudante está vinculado na instituição. Utilizado no perfi
 
 ## Termos ainda sem definição
 
-· proposta · semente · germinando
+
